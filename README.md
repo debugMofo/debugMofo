@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @debugMofo
-- 👀 I’m interested in Coding and Music production
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning database coding and music production
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me : glencyann.workemail@gmail.com
